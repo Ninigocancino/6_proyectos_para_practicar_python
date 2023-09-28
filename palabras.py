@@ -1,0 +1,1 @@
+palabras = ["aire", "ojos","piel","anteojos","joven","viejo", "alto","bajo","gordo","delgado","bella","azul","verde","negro","sombrero","guantes","corbata","gemelos","paraguas","plata","oro","perla","diamantes"]
